@@ -5,5 +5,5 @@ Okay next question... what do I mean by moving *well*? Everytime you code a move
 
 There are different ways a robot can move 3.0 metres too in terms of acceleration and slowing down, such as moving 3.0 metres by accelerating and reaching full speed very quickly, or maybe even accelerating a little slower but eventually still reaching full speed. These different methods can be graphed, and using integral functions (area under the curve), the expected value can be calculated, as to how much a robot really *should* move. The next step is to program the robot for each style of movement, and then to compare the different methods of movement to see which one is the closest to the expected value.
 
-The repository only contains code, but the full publication is available at: 
+The repository only contains code which probably doesn't describe everything there is to learn, but the full publication is available at: 
 https://d3f74302-3327-46a9-9082-28f37e885560.filesusr.com/ugd/b7d83c_20028695352342ce901782ad1fd25174.pdf?index=true
