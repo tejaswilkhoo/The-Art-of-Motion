@@ -1,0 +1,2 @@
+void printSpeed();
+void printPosition();
