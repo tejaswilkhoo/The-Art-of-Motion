@@ -1,6 +1,5 @@
 #include "vex.h"
 #include "printvals.h"
-
 #include "linear.h"
 #include "quadratic.h"
 #include "squareroot.h"
