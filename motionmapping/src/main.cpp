@@ -11,9 +11,9 @@ using namespace vex;
 int main()
 {
   vexcodeInit();
-  // linear();
-  // quadratic();
-  // squareroot();
-  // logarithmic();
-  sinusoidal();
+  linear();
+  //quadratic();
+  //squareroot();
+  //logarithmic();
+  //sinusoidal();
 }
